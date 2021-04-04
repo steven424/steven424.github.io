@@ -1,5 +1,5 @@
-<!DOCTYPE html>
 <html>
+<!DOCTYPE html>
     <head>
         <meta charset="utf-8">
         <title>Project: Travel webpage</title>
